@@ -4,7 +4,7 @@
 
 ### 1.1 O que é a Seek & Move
 
-A **Seek & Move** é uma startup de tecnologia especializada no desenvolvimento de soluções inteligentes para mobilidade urbana e análise de dados geoespaciais. Nossa empresa atua na criação de produtos tecnológicos que revolucionam a forma como pessoas e organizações interagem com o ambiente urbano.
+A **Seek & Move** é uma <span title="Empresa jovem, inovadora e de crescimento rápido, tipicamente focada em tecnologia e com modelo de negócio escalável">startup</span> de tecnologia especializada no desenvolvimento de soluções inteligentes para mobilidade urbana e análise de dados <span title="Dados que contêm informações sobre localização geográfica, incluindo coordenadas, mapas e análises espaciais">geoespaciais</span>. Nossa empresa atua na criação de produtos tecnológicos que revolucionam a forma como pessoas e organizações interagem com o ambiente urbano.
 <!-- 
 ### 1.2 Soluções Tecnológicas Específicas
 
@@ -22,16 +22,16 @@ A **Seek & Move** é uma startup de tecnologia especializada no desenvolvimento 
 - Integração com transporte público e serviços de mobilidade
 - Sistema de pontuação de segurança para trajetos
 
-**UrbanInsights** - Dashboard Executivo para Gestão Pública
+**UrbanInsights** - <span title="Painel de controle visual que apresenta informações importantes de forma gráfica e resumida para facilitar a tomada de decisão">Dashboard</span> Executivo para Gestão Pública
 - Painéis de controle para tomada de decisão em mobilidade urbana
 - Relatórios automatizados sobre fluxo de tráfego e padrões de mobilidade
 - Integração com dados governamentais e sensores urbanos
 - Módulo de previsão e simulação de cenários
 
-**RiskAlert API** - Serviços de Dados como Produto
-- API para integração de dados de risco geoespacial
+**RiskAlert <span title="Interface de Programação de Aplicativos - conjunto de rotinas e padrões para integração entre diferentes sistemas de software">API</span>** - Serviços de Dados como Produto
+- <span title="Interface de Programação de Aplicativos - permite que diferentes sistemas se comuniquem e compartilhem dados">API</span> para integração de dados de risco geoespacial
 - Serviços de notificação em tempo real
-- Webhooks personalizáveis para sistemas terceiros
+- <span title="Mecanismo automatizado que envia notificações HTTP para outros sistemas quando eventos específicos ocorrem">Webhooks</span> personalizáveis para sistemas terceiros
 - Licenciamento de dados processados -->
 
 ### 1.2 Quem são os Sócios
@@ -237,7 +237,7 @@ Ser a principal referência em tecnologia geoespacial aplicada à mobilidade urb
 
 <!-- - **Aquiris Game Studio**: Soluções de simulação urbana -->
 <!-- - **Movile**: Plataforma de mobilidade (vendida para Prosus) -->
-- **Consultorias locais**: Empresas de engenharia com serviços GIS
+- **Consultorias locais**: Empresas de engenharia com serviços <span title="Geographic Information System - sistema de informação geográfica para captura, armazenamento, análise e visualização de dados espaciais">GIS</span>
 
 **Concorrentes Indiretos:**
 
@@ -264,9 +264,9 @@ Ser a principal referência em tecnologia geoespacial aplicada à mobilidade urb
 
 **Oportunidades:**
 
-- Internet das Coisas (IoT) expandindo dados urbanos disponíveis
-- Inteligência Artificial democratizando análise de big data
-- 5G possibilitando aplicações em tempo real
+- Internet das Coisas (<span title="Internet of Things - rede de dispositivos físicos conectados que coletam e compartilham dados automaticamente">IoT</span>) expandindo dados urbanos disponíveis
+- Inteligência Artificial democratizando análise de <span title="Conjuntos de dados extremamente grandes e complexos que requerem ferramentas especializadas para processamento e análise">big data</span>
+- <span title="Quinta geração de tecnologia de comunicação móvel, oferecendo velocidades muito altas e baixa latência para aplicações em tempo real">5G</span> possibilitando aplicações em tempo real
 - Edge computing reduzindo latência
 - Blockchain para segurança de dados
 
@@ -297,11 +297,11 @@ Ser a principal referência em tecnologia geoespacial aplicada à mobilidade urb
 | • Demanda por soluções de mobilidade sustentável | • Regulamentações restritivas sobre dados pessoais |
 | • Programas governamentais de incentivo à inovação | • Instabilidade econômica afetando investimentos |
 | • Expansão de cidades inteligentes no Brasil | • Competição com Google Maps/Waze |
-| • IoT expandindo dados urbanos disponíveis | • Complexidade regulatória para acesso a dados |
-| • IA democratizando análise de big data | • Mudanças nas leis de licitação pública |
-| • 5G possibilitando aplicações em tempo real | • Competição com Moovit no transporte público |
+| • <span title="Internet of Things - rede de dispositivos conectados que coletam dados automaticamente">IoT</span> expandindo dados urbanos disponíveis | • Complexidade regulatória para acesso a dados |
+| • IA democratizando análise de <span title="Conjuntos de dados extremamente grandes e complexos que requerem ferramentas especializadas para processamento e análise">big data</span> | • Mudanças nas leis de licitação pública |
+| • <span title="Quinta geração de tecnologia móvel com alta velocidade e baixa latência">5G</span> possibilitando aplicações em tempo real | • Competição com Moovit no transporte público |
 | • Crescimento populacional urbano | • Necessidade de conformidade rigorosa com LGPD |
-| • Marco Legal das Startups (benefícios fiscais) | • Consultorias locais com serviços GIS |
+| • Marco Legal das Startups (benefícios fiscais) | • Consultorias locais com serviços <span title="Geographic Information System - sistemas de informação geográfica">GIS</span> |
 
 ---
 
@@ -428,11 +428,11 @@ Esta postura é adequada porque:
 
 **Objetivos 2025**:
 
-- Implementar arquitetura de microserviços para escalabilidade
-- Desenvolver API pública com documentação completa
-- Alcançar 99.9% de uptime dos sistemas
+- Implementar arquitetura de <span title="Abordagem de desenvolvimento onde aplicações são compostas por pequenos serviços independentes que se comunicam via APIs">microserviços</span> para escalabilidade
+- Desenvolver <span title="Interface de Programação de Aplicativos disponível publicamente para desenvolvedores externos integrarem com o sistema">API pública</span> com documentação completa
+- Alcançar 99.9% de <span title="Medida de disponibilidade do sistema - tempo em que o serviço está operacional e acessível aos usuários">uptime</span> dos sistemas
 <!-- - Reduzir tempo de resposta das consultas em 50% -->
-- Implementar sistema de machine learning para análise preditiva
+- Implementar sistema de <span title="Tecnologia de inteligência artificial que permite aos sistemas aprender e melhorar automaticamente a partir de dados sem programação explícita">machine learning</span> para análise preditiva
 
 **Métricas**: Tempo de resposta, disponibilidade, bugs por release, velocidade de desenvolvimento
 
@@ -500,17 +500,17 @@ Esta postura é adequada porque:
 
 #### 7.1.3 Estratégia de Inovação
 
-**"Open Innovation" com Ecossistema**
+**"<span title="Modelo de inovação colaborativa onde empresas trabalham com parceiros externos (universidades, startups, etc.) para desenvolver soluções inovadoras">Open Innovation</span>" com Ecossistema**
 
-- Parcerias com universidades para P&D
+- Parcerias com universidades para <span title="Pesquisa e Desenvolvimento - atividades sistemáticas de investigação científica e desenvolvimento tecnológico">P&D</span>
 - Colaboração com startups complementares
-- Participação em aceleradoras e incubadoras
-- Hackathons e challenges de inovação
+- Participação em <span title="Programas que fornecem mentoria, recursos e capital para acelerar o crescimento de startups">aceleradoras</span> e <span title="Organizações que apoiam empresas nascentes fornecendo espaço, recursos e orientação nos estágios iniciais">incubadoras</span>
+- <span title="Eventos colaborativos onde programadores, designers e outros profissionais se reúnem para desenvolver soluções inovadoras em tempo limitado">Hackathons</span> e challenges de inovação
 
 **Ações Específicas**:
 
 - Estabelecer parceria com 2 universidades
-- Aderir a programa de aceleração corporativa
+- Aderir a programa de <span title="Programas onde grandes empresas oferecem recursos e mentoria para acelerar startups que podem agregar valor ao seu negócio">aceleração corporativa</span>
 - Organizar hackathon anual sobre mobilidade urbana
 - Criar programa de estágio em inovação
 
@@ -523,7 +523,7 @@ Esta postura é adequada porque:
 - Conhecimento profundo das necessidades locais
 - Customização para regulamentações regionais
 - Suporte em português com atendimento humanizado
-- Cases específicos para realidade urbana local
+- <span title="Estudos de caso reais documentando implementações e resultados específicos do contexto regional">Cases específicos</span> para realidade urbana local
 
 #### 7.2.2 Estratégia de Nicho
 
@@ -531,33 +531,34 @@ Esta postura é adequada porque:
 
 - Foco inicial em prefeituras de médio porte (100-500 mil habitantes)
 - Especialização em empresas de logística e transporte
-- Nicho de ONGs e organizações ambientais
+- Nicho de <span title="Organizações Não Governamentais - entidades privadas sem fins lucrativos que atuam em causas sociais ou ambientais">ONGs</span> e organizações ambientais
 - Segmento de empresas de construção civil
 
 #### 7.2.3 Estratégia de Parcerias
 
 **Ecossistema de Valor**
 
-- Integração com ERPs governamentais (Betha, Procempa)
+- Integração com <span title="Enterprise Resource Planning - sistemas integrados de gestão empresarial que centralizam informações de diferentes departamentos">ERPs</span> governamentais
+<!-- (Betha, Procempa) -->
 - Parcerias com consultorias de engenharia
 - Alianças com fornecedores de dados (sensores, satélites)
-- Channel partners em outros estados
+- <span title="Parceiros comerciais que revendem ou distribuem produtos/serviços em diferentes regiões ou mercados">Channel partners</span> em outros estados
 
 ### 7.3 Estratégias de Sustentabilidade
 
 #### 7.3.1 Modelo de Receita Recorrente
 
-- **SaaS Subscriptions** (60% da receita): Assinaturas mensais/anuais
-- **Professional Services** (25% da receita): Consultoria e implementação
+- **<span title="Software as a Service - modelo onde software é oferecido como serviço via internet, com pagamento recorrente">SaaS</span> Subscriptions** (60% da receita): Assinaturas mensais/anuais
+- **Professional Services** (30% da receita): Consultoria e implementação
 - **Data Licensing** (10% da receita): Licenciamento de dados processados
-- **Training & Certification** (5% da receita): Cursos e certificações
+<!-- - **Training & Certification** (5% da receita): Cursos e certificações -->
 
 #### 7.3.2 Eficiência Operacional
 
 - Automação máxima de processos repetitivos
-- Infraestrutura cloud com auto-scaling
-- Metodologias ágeis para desenvolvimento
-- Outsourcing de atividades não-core
+- Infraestrutura <span title="Computação em nuvem - fornecimento de serviços de computação via internet, incluindo servidores, armazenamento e aplicações">cloud</span> com <span title="Capacidade de ajustar automaticamente recursos computacionais (servidores, memória, etc.) baseado na demanda em tempo real">auto-scaling</span>
+- <span title="Conjunto de práticas de desenvolvimento que enfatizam colaboração, flexibilidade e entrega rápida de software funcional">Metodologias ágeis</span> para desenvolvimento
+- <span title="Prática de contratar empresas externas para realizar atividades que não são essenciais ao negócio principal da empresa">Outsourcing</span> de atividades não-core
 
 ---
 
@@ -573,7 +574,7 @@ Esta postura é adequada porque:
 - Documentação técnica obrigatória para todas as funcionalidades
 - Processo de feedback contínuo com clientes
 - Métricas de qualidade acompanhadas semanalmente
-- Certificação de qualidade de dados (precisão > 95%)
+<!-- - Certificação de qualidade de dados (precisão > 95%) -->
 
 ### 8.2 Política de Atendimento ao Cliente
 
@@ -639,17 +640,56 @@ Esta postura é adequada porque:
 
 ## 9. Projetos e Planos de Ação
 
+### 9.1 Projeto: API de Previsão de Chegada do Metrô (Prioridade Alta)
+
+**Objetivo**: Desenvolver uma API com interface web simples para prever o tempo de chegada do metrô com base em tabela de horários do Metrofor e aprendizado contínuo com atualizações dos usuários.
+
+**Escopo**:
+
+- Desenvolvimento de API com Flask para consulta de horários de metrô por estação.
+- Interface web minimalista para seleção de estação e exibição do tempo estimado de chegada.
+- Integração de modelo de rede neural para prever horários com base em tabela do Metrofor e atualizações dos usuários.
+- Banco de dados (SQLite) para armazenar horários programados e atualizações em tempo real.
+- Sistema de aprendizado incremental para melhorar previsões com base em dados dos usuários.
+- Validação de entradas para garantir segurança contra ataques (ex.: injeção de SQL, XSS).
+- Documentação completa da API.
+
+**Cronograma**: Julho a Dezembro 2025 (6 meses)
+
+**Orçamento**: R$ 90.000
+
+- Desenvolvimento (API e modelo de IA): R$ 50.000
+- Design de interface: R$ 15.000
+- Infraestrutura (servidores e banco de dados): R$ 15.000
+- Testes e documentação: R$ 10.000
+
+**Responsáveis**:
+
+- Líder: Mac Myller
+- Design: Victor Coscolin
+- Negócios e validação com Metrofor: Alef Natanael
+
+**Entregas Principais**:
+
+- Milestone 1 (Jul): Definição da arquitetura técnica e integração da tabela do Metrofor.
+- Milestone 2 (Ago): Protótipo da API e interface web funcional.
+- Milestone 3 (Set): Modelo de rede neural treinado com dados iniciais.
+- Milestone 4 (Out): Beta com testes de usuários e coleta de atualizações.
+- Milestone 5 (Nov): Versão release candidate com aprendizado incremental.
+- Milestone 6 (Dez): Lançamento oficial da API e interface
+
+<!-- 
 ### 9.1 Projeto 1: SeekMap Pro 2.0 (Prioridade Alta)
 
 **Objetivo**: Relançar plataforma principal com arquitetura escalável e novas funcionalidades
 
 **Escopo**:
 
-- Migração para arquitetura de microserviços
+- Migração para arquitetura de <span title="Abordagem onde aplicações são divididas em pequenos serviços independentes que se comunicam via APIs">microserviços</span>
 - Interface redesenhada com foco em usabilidade
-- Módulo de machine learning para análise preditiva
-- API pública com documentação completa
-- Dashboard executivo para tomadores de decisão
+- Módulo de <span title="Tecnologia de IA que permite aos sistemas aprender padrões dos dados e fazer previsões automáticas">machine learning</span> para análise preditiva
+- <span title="Interface pública que permite desenvolvedores externos acessarem funcionalidades do sistema">API pública</span> com documentação completa
+- <span title="Painel visual que apresenta informações-chave de forma resumida para facilitar decisões executivas">Dashboard executivo</span> para tomadores de decisão
 
 **Cronograma**: Janeiro a Junho 2025 (6 meses)
 
@@ -672,8 +712,9 @@ Esta postura é adequada porque:
 - Milestone 2 (Mar): Protótipo funcional
 - Milestone 3 (Abr): Beta com clientes selecionados
 - Milestone 4 (Mai): Versão release candidate
-- Milestone 5 (Jun): Lançamento oficial
-
+- Milestone 5 (Jun): Lançamento oficial 
+-->
+<!-- 
 ### 9.2 Projeto 2: Expansão Comercial Regional (Prioridade Alta)
 
 **Objetivo**: Estabelecer presença comercial em São Paulo e Rio de Janeiro
@@ -707,8 +748,9 @@ Esta postura é adequada porque:
 - Milestone 2 (Mai): 3 parcerias estabelecidas
 - Milestone 3 (Jul): Campanha de marketing lançada
 - Milestone 4 (Set): Primeiros leads qualificados
-- Milestone 5 (Dez): 5 contratos assinados
-
+- Milestone 5 (Dez): 5 contratos assinados 
+-->
+<!-- 
 ### 9.3 Projeto 3: MoveSafe Mobile App (Prioridade Média)
 
 **Objetivo**: Lançar aplicativo mobile para usuários finais
@@ -733,8 +775,9 @@ Esta postura é adequada porque:
 
 - Líder: Mac Myller
 - Design: Victor Coscolin
-- Go-to-market: Alef Natanael
-
+- Go-to-market: Alef Natanael 
+-->
+<!-- 
 ### 9.4 Projeto 4: Certificação e Compliance (Prioridade Média)
 
 **Objetivo**: Obter certificações técnicas e de segurança para credibilidade no mercado
@@ -758,8 +801,10 @@ Esta postura é adequada porque:
 **Responsáveis**:
 
 - Líder: Alef Natanael
-- Técnico: Mac Myller
+- Técnico: Mac Myller 
 
+-->
+<!-- 
 ### 9.5 Projeto 5: Centro de Inovação (Prioridade Baixa)
 
 **Objetivo**: Estabelecer centro de pesquisa e desenvolvimento em parceria com universidade
@@ -778,8 +823,8 @@ Esta postura é adequada porque:
 
 - Infraestrutura do lab: R$ 80.000
 - Bolsas e salários: R$ 50.000
-- Equipamentos: R$ 20.000
-
+- Equipamentos: R$ 20.000 
+-->
 ---
 
 ## 10. Controle e Avaliação do Planejamento
@@ -852,17 +897,17 @@ Esta postura é adequada porque:
 
 #### 10.2.2 Ferramentas de Monitoramento
 
-**Dashboard Executivo**:
+**<span title="Painel visual que apresenta informações-chave de forma resumida para facilitar decisões executivas">Dashboard</span> Executivo**:
 
 - Plataforma: Power BI ou similar
 - Atualização: Tempo real
 - Acesso: Todos os líderes
-- Visualizações: KPIs, tendências, alertas
+- Visualizações: <span title="Key Performance Indicators - indicadores-chave de desempenho usados para medir sucesso de objetivos específicos">KPIs</span>, tendências, alertas
 
-**Sistema de CRM**:
+**Sistema de <span title="Customer Relationship Management - sistema para gerenciar relacionamentos e interações com clientes atuais e potenciais">CRM</span>**:
 
 - Plataforma: HubSpot ou Pipedrive
-- Função: Acompanhar pipeline comercial
+- Função: Acompanhar <span title="Funil de vendas que mostra o progresso dos prospects desde o primeiro contato até o fechamento">pipeline comercial</span>
 - Responsável: Alef Natanael
 - Relatórios: Semanais
 
@@ -871,7 +916,7 @@ Esta postura é adequada porque:
 - Plataforma: Jira + Confluence
 - Função: Acompanhar desenvolvimento de produto
 - Responsável: Mac Myller
-- Métricas: Velocity, burn-down, qualidade
+- Métricas: <span title="Medida de produtividade da equipe em metodologias ágeis, indicando quantas tarefas são completadas por sprint">Velocity</span>, <span title="Gráfico que mostra o progresso do trabalho restante ao longo do tempo em um sprint ou projeto">burn-down</span>, qualidade
 
 ### 10.3 Processo de Avaliação e Ajustes
 
@@ -945,7 +990,7 @@ Esta postura é adequada porque:
 **Distribuição**: Público (website, redes sociais)
 
 ---
-
+<!-- 
 ## Conclusão
 
 O planejamento estratégico da Seek & Move foi desenvolvido com foco na especificidade das soluções tecnológicas oferecidas, atendendo ao feedback de refinar a proposta ampla inicialmente apresentada.
@@ -964,4 +1009,5 @@ O planejamento estratégico da Seek & Move foi desenvolvido com foco na especifi
 
 Este planejamento posiciona a Seek & Move como uma startup de tecnologia especializada e diferenciada no mercado de mobilidade urbana e análise geoespacial, com estratégias claras para crescimento sustentável e criação de valor para clientes e stakeholders.
 
-A implementação deste planejamento deve ser acompanhada sistematicamente através dos KPIs definidos, com flexibilidade para ajustes conforme a evolução do mercado e da empresa.
+A implementação deste planejamento deve ser acompanhada sistematicamente através dos KPIs definidos, com flexibilidade para ajustes conforme a evolução do mercado e da empresa. 
+-->

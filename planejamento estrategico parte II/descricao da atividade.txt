@@ -1,0 +1,40 @@
+# Função Planejamento
+
+O planejamento é uma função da Administração que tem por finalidade definir o que
+a organização (empresa, instituições, startups etc.) representa, qual o seu papel na
+sociedade, o que ela produz, quais são suas aspirações, que princípios norteiam
+suas ações. Através do planejamento, a organização define o que deseja alcançar
+(objetivos), como vai alcançar (estratégias), que recursos serão necessários para
+esse alcance, como vai acompanhar as ações e avaliar os resultados alcançados.
+
+Para fazer acontecer o planejamento é necessário adotar uma metodologia que
+oriente a construção de cada etapa envolvida. Portanto, planejar exige método e
+conhecimento das ferramentas utilizadas para tal função. Não se planeja sem
+conhecimento.
+
+
+# Planejamento Estratégico
+
+1. Apresentação da Empresa
+O que é
+Quem são os sócios
+Organograma da empresa
+Diferencial da empresa (o que de inovação a empresa apresenta)
+2. Missão, Visão e Valores
+3. Diagnóstico Estratégico
+3.1 Análise interna: pontos fortes e pontos fracos
+3.1.1 Empresa: o que é, como está (recursos, vantagem competitiva), como
+estará.
+3.2 Análise externa: oportunidades e ameaças
+3.2.1 Ambiente: como está, como estará (conjuntura, necessidades identificadas,
+concorrência, limitações governamentais)
+3.3 Matriz SWOT
+4. Cenários
+5. Postura Estratégica da Empresa
+6. Objetivos
+6.1 Objetivos da empresa
+6.2 Objetivos funcionais
+7. Estratégias da empresa
+8. Política Empresarial
+9. Projetos e planos de ação
+10. Controle e avaliação do planejamento
